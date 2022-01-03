@@ -105,6 +105,13 @@ Méritos:
 - 02/01/2022 - Esta analise de requisitos foi feita em 2 hora, após 2 dias de jogo de xadrez no nivel expert contra o PC.
 
 ----------------------------------------------------------------------------------------------
+
+Penalidade da não conclusão:
+
+- Morte.
+
+
+----------------------------------------------------------------------------------------------
 Hacktoon do face, aberta e nao fechada (ME FODI). kkkk (Só uma suposição minha).
 
 Donation: 1HmNVN4TfbdNtkJK1TUrhc9UyvGWrvuV1r
