@@ -97,6 +97,8 @@ Se for o caso, depois de tudo desenvolvido, bater se a decisão coincide com as 
 
 Mas não gosto desta visão pois limita o conceito de 0x de exploit que será aberto neste formato de implementação.
 
+Isto será apenas identificado pelo K-means. (Ainda nao sei em qual etapa dos processos)
+
 ----------------------------------------------------------------------------------------------
 
 Camadas tecnicas, como BD/APIs/ThredCalcCore(Grafos, Ifs, Matches, Probabildades)/IA(K-means).
