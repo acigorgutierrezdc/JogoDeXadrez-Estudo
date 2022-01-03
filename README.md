@@ -42,7 +42,7 @@ Se for o caso, depois de tudo desenvolvido, bater se a decisão coincide com as 
 
 ----------------------------------------------------------------------------------------------
 
-Camadas tecnicas, como BD/APIs/ThredCalcCore/IA(K-means).
+Camadas tecnicas, como BD/APIs/ThredCalcCore(Grafos, Ifs, Matches, Probabildades)/IA(K-means).
 
 E por ultimo a camada de interface.
 
