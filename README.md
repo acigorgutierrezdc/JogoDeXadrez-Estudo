@@ -72,6 +72,8 @@ Camada de ação a ser jogada.
 
 Se for o caso, depois de tudo desenvolvido, bater se a decisão coincide com as jogadas ja conhecidas do xadrez. Daqui poderá sair testes unitarios TDDs.
 
+Mas não gosto desta visão pois limita o conceito de 0x de exploit que será aberto neste formato de implementação.
+
 ----------------------------------------------------------------------------------------------
 
 Camadas tecnicas, como BD/APIs/ThredCalcCore(Grafos, Ifs, Matches, Probabildades)/IA(K-means).
