@@ -67,6 +67,8 @@ Banco de dados Relacional e Não relacional, ambos terão de ser utilizados.
 
 Se possivel, desenvolver uma linaguem de programacao chamada XADREZ. (Que nada mais é que o script final das ações, porém, é Python com GOTO.
 
+Adicionar um narrador, apontando os erros, acertos, e comenatarios de analise de falta de antenção do jogador.
+
 ----------------------------------------------------------------------------------------------
 
 Sera dividido em camdas de arquitetura de software:
