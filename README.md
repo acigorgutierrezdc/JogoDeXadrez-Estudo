@@ -36,7 +36,15 @@ Uma variavel de porcentagem de indice de ganhando/perdendo devera ser adicionada
 
 Estudar aplicação da teoria dos grafos.
 
-O laço de analise da jogada deve ter como fixo, 64 processamentos, mesmo as peças ja mortas....?
+----------------------------------------------------------------------------------------------
+
+O laço de analise da jogada deve ter como fixo, 64 processamentos!
+
+Mesmo as peças ja mortas....?
+
+Possível aplicação da linguagem R dentro do C#...?
+
+Banco de dados Relacional e Não relacional, ambos terão de ser utilizados.
 
 ----------------------------------------------------------------------------------------------
 
