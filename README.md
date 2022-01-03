@@ -18,7 +18,7 @@ Tudo começa em uma matriz a1-h8.
 
 Os objetos são as peças(genericas), e seus movimentos serão dinamicos, atribunido na propriedade movimentos. Sendo entao o objeto identificado pelo seus movimentos. 
 
-Trabalhar a fundo a tipagem e generalização em C#.
+Trabalhar a fundo a tipagem e generalização de POO em C#.
 
 Dentro desse objeto, alem dos movimentos, tem as peculiaridades e regras, como o piao chegar no fim, e a troca da torre pelo rei, por exemplo.
 
