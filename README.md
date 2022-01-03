@@ -100,7 +100,9 @@ APÓS A CONCLUSÂO DO PROJETO, O MESMO DEVE SER MIGRADO PRA BLOCKCHAIN, FORA DO 
 
 Méritos:
 
-- 02/01/2022 - Esta analise de requisitos foi feita em 1 hora, após 2 dias de jogo de xadrez no nivel expert contra o PC.
+- Não pode mentir em aspecto algúm.
+
+- 02/01/2022 - Esta analise de requisitos foi feita em 2 hora, após 2 dias de jogo de xadrez no nivel expert contra o PC.
 
 ----------------------------------------------------------------------------------------------
 Hacktoon do face, aberta e nao fechada (ME FODI). kkkk (Só uma suposição minha).
