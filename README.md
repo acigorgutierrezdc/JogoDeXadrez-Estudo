@@ -48,6 +48,8 @@ Possível aplicação da linguagem R dentro do C#...?
 
 Banco de dados Relacional e Não relacional, ambos terão de ser utilizados.
 
+Se possivel, desenvolver uma linaguem de programacao chamada XADREZ.
+
 ----------------------------------------------------------------------------------------------
 
 Sera dividido em camdas de arquitetura de software:
@@ -62,11 +64,13 @@ Camada de porcentagem geral do jogo;
 
 Camada do processamento das jogadas;
 
+Camada do resultado: Script da ação da jogada.
+
 Camada de IA;
 
 Camada de unificação dos resultados das camadas anteriores.
 
-Camada de ação a ser jogada.
+Camada de ação a ser jogada. (script)
 
 ----------------------------------------------------------------------------------------------
 
