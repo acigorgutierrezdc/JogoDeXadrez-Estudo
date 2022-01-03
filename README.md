@@ -12,6 +12,8 @@ Identificar a melhor arquitetura, sendo que DDD se encaixa perfeitamente.
 
 Porem, devido a complexidade, tem algum segredo de arquitetura que me foge a pensar agora.
 
+Se possivel, nao estourar, ou estourar o limite do PI 3,14...
+
 ----------------------------------------------------------------------------------------------
 
 Requisito minimo:
