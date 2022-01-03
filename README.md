@@ -146,4 +146,11 @@ Donation: 1HmNVN4TfbdNtkJK1TUrhc9UyvGWrvuV1r
 [![Jack Johnson - I Got You (Official Video)](https://img.youtube.com/vi/dBWFUVq85gs/0.jpg)](https://www.youtube.com/watch?v=dBWFUVq85gs "Jack Johnson - I Got You (Official Video)")
 
 
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+Comentários, pesquisas, TODO, etc após 02/01/2021, devem ser adicionados abaixo.
+
+----------------------------------------------------------------------------------------------
+
+
 
