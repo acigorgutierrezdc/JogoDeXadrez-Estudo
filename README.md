@@ -36,7 +36,13 @@ Camada das peças;
 
 Camada da porcentagem e analise da melhor decisao;
 
+Camada de porcentagem geral do jogo;
+
 Camada do processamento das jogadas;
+
+Camada de IA;
+
+Camada de unificação dos resultados das camadas anteriores.
 
 ----------------------------------------------------------------------------------------------
 
