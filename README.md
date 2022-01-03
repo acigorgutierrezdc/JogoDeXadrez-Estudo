@@ -1,4 +1,4 @@
-# JogoDeXadrez-Estudo
+# JogoDeXadrez-Estudo - C#
 
 Não vale usar programação de jogas ja conhecidas de xadrez.
 
