@@ -94,6 +94,11 @@ Méritos:
 - 02/01/2022 - Esta analise de requisitos foi feita em 1 hora, após 2 dias de jogo de xadrez no nivel expert contra o PC.
 
 ----------------------------------------------------------------------------------------------
+Hacktoon do face, aberta e nao fechada (ME FODI). kkkk
+
+Donation: 1HmNVN4TfbdNtkJK1TUrhc9UyvGWrvuV1r
+
+----------------------------------------------------------------------------------------------
 
 [![Jack Johnson - I Got You (Official Video)](https://img.youtube.com/vi/dBWFUVq85gs/0.jpg)](https://www.youtube.com/watch?v=dBWFUVq85gs "Jack Johnson - I Got You (Official Video)")
 
