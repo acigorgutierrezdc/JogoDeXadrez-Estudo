@@ -59,6 +59,8 @@ O laço de analise da jogada deve ter como fixo, 64 processamentos!
 
 Mesmo as peças ja mortas....?
 
+Se possivel, trazer as peças mortas como espirito, sendo um tipo de sombras dos erros cometidos.
+
 Possível aplicação da linguagem R dentro do C#...?
 
 Banco de dados Relacional e Não relacional, ambos terão de ser utilizados.
