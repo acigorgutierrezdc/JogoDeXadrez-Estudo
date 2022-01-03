@@ -70,3 +70,12 @@ E por ultimo a camada de interface.
 
 
 ** O PROJETO É APENAS PARA PASSAR O TEMPO E NAO DEVE SER PUBLICADO/COMERCIALIZADO.
+
+----------------------------------------------------------------------------------------------
+
+Méritos:
+
+- 02/01/2022 - Esta analise de requisitos foi feita em 1 hora, após 2 dias de jogo de xadrez no nivel expert contra o PC.
+
+
+
