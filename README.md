@@ -139,9 +139,6 @@ Calendário ocidental.
 
 ----------------------------------------------------------------------------------------------
 
-
-Hacktoon do face, aberta e nao fechada (ME FODI). kkkk (Só uma suposição minha).
-
 Donation: 1HmNVN4TfbdNtkJK1TUrhc9UyvGWrvuV1r
 
 ----------------------------------------------------------------------------------------------
