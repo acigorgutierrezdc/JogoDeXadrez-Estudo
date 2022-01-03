@@ -110,8 +110,15 @@ Penalidade da não conclusão:
 
 - Morte.
 
+----------------------------------------------------------------------------------------------
+
+Ajudas:
+
+- Os lados esquerdo e direito do cérebro podem ser destruidos e refeitos ao decorrer do projeto.
 
 ----------------------------------------------------------------------------------------------
+
+
 Hacktoon do face, aberta e nao fechada (ME FODI). kkkk (Só uma suposição minha).
 
 Donation: 1HmNVN4TfbdNtkJK1TUrhc9UyvGWrvuV1r
