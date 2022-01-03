@@ -22,6 +22,8 @@ Uma variavel de porcentagem de matar da peça deve ser adicionada.
 
 Uma variavel de porcentagem de indice de ganhando/perdendo devera ser adicionada.
 
+Estudar aplicação da teoria dos grafos.
+
 ----------------------------------------------------------------------------------------------
 
 Sera dividido em camdas de arquitetura de software:
