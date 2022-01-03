@@ -36,7 +36,7 @@ Uma variavel de porcentagem de indice de ganhando/perdendo devera ser adicionada
 
 Estudar aplicação da teoria dos grafos.
 
-Estudar aplicação de scripts de TDD em cima do script de ações que será gerado ao final do processamento(dica)
+Estudar aplicação de scripts de TDD em cima do script de ações que será gerado ao final do processamento(dica).
 
 ----------------------------------------------------------------------------------------------
 
