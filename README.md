@@ -44,6 +44,8 @@ Camada de IA;
 
 Camada de unificação dos resultados das camadas anteriores.
 
+Camada de ação a ser jogada.
+
 ----------------------------------------------------------------------------------------------
 
 Se for o caso, depois de tudo desenvolvido, bater se a decisão coincide com as jogadas ja conhecidas do xadrez. Daqui poderá sair testes unitarios TDDs.
