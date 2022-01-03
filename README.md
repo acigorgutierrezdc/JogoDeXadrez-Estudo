@@ -14,6 +14,17 @@ Porem, devido a complexidade, tem algum segredo de arquitetura que me foge a pen
 
 ----------------------------------------------------------------------------------------------
 
+Requisito minimo:
+
+Processador de 64bits.
+4Gb de RAM.
+Visual Studio Community.
+SQL Server.
+Algum outro nao relacional (A estudar).
+
+----------------------------------------------------------------------------------------------
+
+
 Tudo começa em uma matriz a1-h8.
 
 Os objetos são as peças(genericas), e seus movimentos serão dinamicos, atribunido na propriedade movimentos. Sendo entao o objeto identificado pelo seus movimentos. 
