@@ -48,7 +48,7 @@ Possível aplicação da linguagem R dentro do C#...?
 
 Banco de dados Relacional e Não relacional, ambos terão de ser utilizados.
 
-Se possivel, desenvolver uma linaguem de programacao chamada XADREZ.
+Se possivel, desenvolver uma linaguem de programacao chamada XADREZ. (Que nada mais é que o script final das ações, porém, é Python com GOTO.
 
 ----------------------------------------------------------------------------------------------
 
