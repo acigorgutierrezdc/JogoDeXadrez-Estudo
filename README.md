@@ -9,6 +9,8 @@ Dentro desse objeto, alem dos movimentos, tem as peculiaridades e regras, como o
 Dai entao, sai a analise de peça/objeto a peça em tempo real, como primeira regra.
 A segunda regra, é utilizar inteligencia artificial, pra ir gravando os condicionamentos do oponente.
 
+Uma variavel de porcentagem de morte da peça deve ser adicionada.
+Uma variavel de porcentagem de matar da peça deve ser adicionada.
 Uma variavel de porcentagem de indice de ganhando/perdendo devera ser adicionada.
 
 
