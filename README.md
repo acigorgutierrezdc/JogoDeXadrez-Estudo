@@ -2,6 +2,12 @@
 
 Não vale usar programação de jogas ja conhecidas de xadrez.
 
+O estudo deve ser apenas das regras de xadrez e nao de jogadas pré-prontas.
+
+O estudo pode ser feito também na parte técnica.
+
+Nada de copiar codigo pronto ou algoritimos prontos, a nao ser o de grafos(integral/derivada) e o k-means.
+
 Identificar a melhor arquitetura, sendo que DDD se encaixa perfeitamente.
 
 Porem, devido a complexidade, tem algum segredo de arquitetura que me foge a pensar agora.
