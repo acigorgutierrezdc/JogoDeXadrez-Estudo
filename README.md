@@ -94,6 +94,10 @@ E por ultimo a camada de interface.
 
 ----------------------------------------------------------------------------------------------
 
+APÓS A CONCLUSÂO DO PROJETO, O MESMO DEVE SER MIGRADO PRA BLOCKCHAIN, FORA DO ETHEREUM. =X
+
+----------------------------------------------------------------------------------------------
+
 Méritos:
 
 - 02/01/2022 - Esta analise de requisitos foi feita em 1 hora, após 2 dias de jogo de xadrez no nivel expert contra o PC.
