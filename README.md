@@ -80,6 +80,7 @@ Camadas tecnicas, como BD/APIs/ThredCalcCore(Grafos, Ifs, Matches, Probabildades
 
 E por ultimo a camada de interface.
 
+----------------------------------------------------------------------------------------------
 
 ** O PROJETO É APENAS PARA PASSAR O TEMPO E NAO DEVE SER PUBLICADO/COMERCIALIZADO.
 
