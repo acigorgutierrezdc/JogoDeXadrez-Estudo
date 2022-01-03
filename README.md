@@ -1,7 +1,10 @@
 # JogoDeXadrez-Estudo - C#
 
 Não vale usar programação de jogas ja conhecidas de xadrez.
+
 Identificar a melhor arquitetura, sendo que DDD se encaixa perfeitamente.
+
+Porem, devido a complexidade, tem algum segredo de arquitetura que me foge a pensar agora.
 
 ----------------------------------------------------------------------------------------------
 
